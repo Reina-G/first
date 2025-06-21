@@ -74,7 +74,7 @@ const darkModeStore = useDarkModeStore()
     </CardBoxModal>
 
     <CardBoxModal v-model="modalTwoActive" title="Unhandled exception" button="danger">
-      <p>This is sample modal</p>
+      <p>Rainbow</p>
       <p>Lorem ipsum dolor</p>
     </CardBoxModal>
 

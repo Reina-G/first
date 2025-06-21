@@ -69,7 +69,7 @@ const darkModeStore = useDarkModeStore()
       button-label="Confirm"
       has-cancel
     >
-      <p>This is sample modal</p>
+      <p>This is Rainbow</p>
       <p>Lorem ipsum dolor</p>
     </CardBoxModal>
 
